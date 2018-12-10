@@ -8,4 +8,3 @@ The Vue.js + Vuelidate Form Validation example shows:
 - Custom Validators
 - Conditional Validators
 - Asynchronous Form Validation
-- Validation Collections
